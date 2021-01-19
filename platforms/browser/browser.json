@@ -23,64 +23,64 @@
     },
     "installed_plugins": {
         "cordova-plugin-battery-status": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-camera": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-file": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-media-capture": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-device-motion": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-device-orientation": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-file-transfer": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-globalization": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-media": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-vibration": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.casafreitas.scanner"
+            "PACKAGE_NAME": "br.com.casafreitas.consultaproduto"
         }
     },
     "dependent_plugins": {},
